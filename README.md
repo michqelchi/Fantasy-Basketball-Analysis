@@ -6,6 +6,6 @@ Expert rankings were complied from 5 different sources: ESPN, Yahoo, LeagueWinne
 
 I manually turned these rankings into CSV files which I then cleaned/analyzed in SQL.
 
-In the SQL folder I attached two SQL files. One contains the queries I used to inspect my dataset after I cleaned it to make sure names were standardized and there were no duplicates (I did not include my cleaning queries because it was a lot of trial and error). The other contains the queries I used to analyze the dataset and prepare it for Excel.
+I attached two SQL files. One contains the queries I used to inspect my dataset after I cleaned it to make sure names were standardized and there were no duplicates (I did not include my cleaning queries because it was a lot of trial and error). The other contains the queries I used to analyze the dataset and prepare it for Excel.
 
 For results only, look at the Excel workbook for best visual presentation and easy filtering.
